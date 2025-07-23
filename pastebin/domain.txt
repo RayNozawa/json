@@ -1,5 +1,0 @@
-{
-  domain: 'http://89.144.8.193:1044',
-  hfname: 'https://yupicdy',
-  hfmain: 'https://yupicdy.hf.space'
-}
