@@ -1,5 +1,5 @@
 [
   { "id": 1, "name": "Nokos WhatsApp Iran (Stock: 10)", "price": 3000, "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Iran_2.svg/1200px-Flag_of_Iran_2.svg.png" },
   { "id": 2, "name": "Nokos WhatsApp Indonesia (Stock: 2)", "price": 5000, "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Indonesia_(physical_version).svg/2560px-Flag_of_Indonesia_(physical_version).svg.png" },
-  { "id": 3, "name": "Nokos WhatsApp Afghanistan", "price": 4000, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL7xUcmEPPzOLeuU3knsWdRR0GMYR471Qi5qkYb3vsog&s=10" }
+  { "id": 3, "name": "Nokos WhatsApp Afghanistan (Stock: 2)", "price": 4000, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL7xUcmEPPzOLeuU3knsWdRR0GMYR471Qi5qkYb3vsog&s=10" }
 ]
