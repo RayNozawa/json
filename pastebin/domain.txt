@@ -1,5 +1,5 @@
 {
   "domain": "http://89.144.8.193:1044",
-  "hfname": "jkt48.zone.id",
-  "hfmain": "https://jkt48.zone.id"
+  "hfname": "smail.my.id",
+  "hfmain": "htts://smail.my.id"
 }
