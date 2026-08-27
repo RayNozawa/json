@@ -1,5 +1,4 @@
 {
-  "domain": "http://89.144.8.193:1044",
-  "hfname": "smail.my.id",
-  "hfmain": "https://smail.my.id"
+  "domain": "smail.my.id",
+  "domainFull": "https://smail.my.id"
 }
